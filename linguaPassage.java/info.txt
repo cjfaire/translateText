@@ -1,0 +1,11 @@
+The Program needs to modify the BibleText file.
+    + chapter:1 text at start of each line in .txt 
+    
+
+
+What we need a Key {Chapter Int, Verse Int}
+    Then we need a Value {String text} attached to key
+
+
+English Chapter i Verse p
+getLatin Chapter i Verse p
